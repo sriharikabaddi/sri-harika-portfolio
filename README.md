@@ -1,33 +1,82 @@
 # Sri Harika Baddi — Portfolio
 
-Personal portfolio built with Next.js, React, TypeScript, Tailwind CSS, and Motion.
+A personal portfolio website showcasing my software engineering journey, technical skills, projects, education, and experience.
 
-## Run locally
+## Tech Stack
 
-Requirements: Node.js 20.9 or newer and npm.
+- **Framework:** Next.js
+- **Frontend:** React, TypeScript
+- **Styling:** Tailwind CSS
+- **Animations:** Motion
+- **Deployment:** Vercel
+
+## Features
+
+- Responsive design for desktop and mobile devices
+- Professional introduction and profile section
+- Technical skills and education
+- Selected software development projects
+- Experience and certifications
+- Contact information and professional links
+- Smooth animations and interactive UI elements
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 20.9 or newer
+- npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sriharikabaddi/sri-harika-portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd sri-harika-portfolio
+```
+
+Install dependencies:
 
 ```bash
 npm install
+```
+
+Start the development server:
+
+```bash
 npm run dev
 ```
 
-Open http://localhost:3000 in your browser.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Production build
+## Production Build
+
+Build the application:
 
 ```bash
 npm run build
+```
+
+Start the production server:
+
+```bash
 npm start
 ```
 
-## Before publishing
+## Contact
 
-- Confirm the ReachInbox GitHub repository is public and its URL opens in a signed-out browser.
-- Review the project descriptions and skill levels for accuracy.
-- Add a final profile photograph only after selecting the exact image to use.
-- Add certificate image previews if desired; certificate names and issuers are currently listed as text.
-- Check every section on desktop and mobile before deploying to Vercel.
+- **Email:** harikabaddi667@gmail.com
+- **GitHub:** [sriharikabaddi](https://github.com/sriharikabaddi)
+- **LinkedIn:** [Sri Harika Baddi](https://www.linkedin.com/in/sri-harika-baddi/)
 
-## Notes
+---
 
-The project deliberately avoids invented performance metrics, production claims, and unverified live-demo links. ReachInbox has the supplied Loom walkthrough; the other projects link to their GitHub repositories.
+Built with Next.js, React, TypeScript, and Tailwind CSS.
+
+© 2026 Sri Harika Baddi. All rights reserved.
